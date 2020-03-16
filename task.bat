@@ -1,2 +1,1 @@
-@echo off
-R CMD BATCH C:\Users\Tyler\Desktop\Make_Task\task.R
+R CMD BATCH test1.R
